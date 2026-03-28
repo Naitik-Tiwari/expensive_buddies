@@ -1,0 +1,20 @@
+[
+    {
+        "UserName": "Mayank Chhipa",
+        "Password": "123Pass@",
+        "expenses": [
+            {
+                "date": "2026-03-20",
+                "category": "Food",
+                "description": "Weekend_Masti",
+                "amount": 3000
+            },
+            {
+                "date": "2026-03-05",
+                "category": "Cloth",
+                "description": "Anniversary",
+                "amount": 10000
+            }
+        ]
+    }
+]
